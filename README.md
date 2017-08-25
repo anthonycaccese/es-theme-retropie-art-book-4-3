@@ -8,16 +8,13 @@ Discussion is ongoing in this thread: https://retropie.org.uk/forum/topic/11728/
 ### Screenshots
 
 *Detailed View*
-![Detailed View](http://i.imgur.com/BVkhz56.png)
+![Detailed View](http://i.imgur.com/7rltaSjh.png)
 
 *Video View*
-![Video View](http://i.imgur.com/7QDFPud.png)
+![Video View](http://i.imgur.com/rQPP4iNh.png)
 
 *Basic View*
-![Basic View](http://i.imgur.com/YH4oAci.png)
-
-*System View*
-![System View](http://i.imgur.com/VsXBB6E.png)
+![Basic View](http://i.imgur.com/hllRtEKh.png)
 
 
 ## Details
@@ -27,7 +24,7 @@ Discussion is ongoing in this thread: https://retropie.org.uk/forum/topic/11728/
 - System, basic, detailed and video views are supported
 - Support for new "All Games", "Favorites", "Last Played" and "Custom Collections" features in latest version of EmulationStation
 - Displays rating, description, # of players, genre, publish date & last played metadata on detailed and video views
-- 16x9 resolutions only (tested at 1280x720 and 1920x1080)
+- 4x3 resolutions only (tested at 1024x768 and 640x480)
 - Layout designed to support hardware accelerated OMX player on video views
 
 
