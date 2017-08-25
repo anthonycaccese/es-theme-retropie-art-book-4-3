@@ -1,0 +1,56 @@
+<theme>
+   <formatVersion>4</formatVersion>
+   <!-- VIEW: Detailed & Video -->
+   <view name="detailed,video">
+      <!-- Image -->
+      <image name="md_image">
+         <origin>0 0</origin>
+         <pos>0.095833333333333 0.1625</pos>
+         <maxSize>0.526041666666667 0.5138888888888889</maxSize>
+      </image>
+      <!-- Metadata -->
+      <rating name="md_rating">
+         <pos>0.664583333333333 0.173611111111111</pos>
+      </rating>
+      <text name="md_lbl_lastplayed">
+         <pos>0.664583333333333 0.229166666666667</pos>
+      </text>
+      <datetime name="md_lastplayed">
+         <pos>0.777083333333333 0.229166666666667</pos>
+      </datetime>
+      <text name="md_lbl_players">
+         <pos>0.664583333333333 0.284722222222222</pos>
+      </text>
+      <text name="md_players">
+         <pos>0.777083333333333 0.284722222222222</pos>
+      </text>
+      <text name="md_lbl_releasedate">
+         <pos>0.664583333333333 0.256944444444444</pos>
+      </text>
+      <datetime name="md_releasedate">
+         <pos>0.777083333333333 0.256944444444444</pos>
+      </datetime>
+      <text name="md_lbl_genre">
+         <pos>0.664583333333333 0.3125</pos>
+      </text>
+      <text name="md_genre">
+         <pos>0.777083333333333 0.3125</pos>
+      </text>
+      <!-- Description & Help Icons -->
+      <image name="help-launch" extra="true">
+         <pos>0.664583333333333 0.506944444444444</pos>
+      </image>
+      <image name="help-favorite" extra="true">
+         <pos>0.775 0.506944444444444</pos>
+      </image>
+   </view>
+   <view name="detailed">
+      <!-- Description & Help Icons -->
+      <image name="md-description-border" extra="true">
+         <size>0.526041666666667 0.0027777777777778</size>
+      </image>
+      <text name="md_description">
+         <size>0.526041666666667 0.1180555555555556</size>
+      </text>
+   </view>
+</theme>

@@ -1,0 +1,30 @@
+<theme>
+   <formatVersion>4</formatVersion>
+   <!-- VIEW: Detailed & Video -->
+   <view name="detailed,video">
+      <!-- Image -->
+      <image name="md_image">
+         <maxSize>0.410416666666667 0.75</maxSize>
+      </image>
+      <!-- Description & Help Icons -->
+      <image name="md-description-border" extra="true">
+         <pos>0.55 0.770833333333333</pos>
+         <size>0.354166666666667 0.0027777777777778</size>
+      </image>
+      <text name="md_description">
+         <pos>0.55 0.790277777777778</pos>
+         <size>0.354166666666667 0.1180555555555556</size>
+      </text>
+   </view>
+   <!-- VIEW: Video -->
+   <view name="video">
+      <!-- Description & Help Icons -->
+      <image name="md-description-border" extra="true">
+         <pos>1 1</pos>
+      </image>
+      <text name="md_description">
+         <pos>0.55 0.373611111111111</pos>
+         <size>0.333333333333333 0.0875</size>
+      </text>
+   </view>
+</theme>
