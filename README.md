@@ -1,4 +1,4 @@
-# Art Book, an EmulationStation theme
+# Art Book 4x3, an EmulationStation theme for 4x3 resolutions
 A simple theme for Emulation Station and RetroPie based on the look of a coffee table book.  
 Discussion is ongoing in this thread: https://retropie.org.uk/forum/topic/11728/new-theme-art-book
 
